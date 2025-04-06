@@ -1,4 +1,4 @@
-#Homework 5: Rational Behavior
+# Homework 5: Rational Behavior
 
 Learning objectives: 
 * 4.1 - Design a class with fields, constructors, and methods according to a specification.​
