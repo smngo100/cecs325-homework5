@@ -1,0 +1,3 @@
+C:/Users/sophi/Downloads/School/cecs325/homework5/cmake-build-debug/CMakeFiles/homework5.dir
+C:/Users/sophi/Downloads/School/cecs325/homework5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sophi/Downloads/School/cecs325/homework5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
