@@ -1,3 +1,1 @@
-"# cecs325-homework5" 
-"# cecs325-homework5" 
-"# cecs325-homework5" 
+Homework 5: Rational Behavior
